@@ -16,5 +16,5 @@ This is for test code for a inteview for showing two images
  1) npm start
 
 ## Deployment Link
-Netlify Link : `https://imagecheck.netlify.app`
-GitHub Link : `https://github.com/Prasanjitprusty/example.git`
+1) Netlify Link : `https://imagecheck.netlify.app` 
+2) GitHub Link : `https://github.com/Prasanjitprusty/example.git`
